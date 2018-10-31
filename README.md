@@ -22,7 +22,7 @@ The project shows how to paste the contents of the clipboard to the keyboard buf
 
 ## Usage
 
-1. Double click sendClipboard.ahk to load the shortcut. Not that the AutoHotkey icon should now be in the notification window.
+1. Double click sendClipboard.ahk to load the shortcut. Note that the AutoHotkey icon should now be in the notification window.
 
 1. Copy the text you need into the clipboard.
 
